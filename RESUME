@@ -1,74 +1,86 @@
-🛡️ Srikanth Gatla
-📧 Srikanthgatla989@gmail.com | 📍 Vijayawada, Andhra Pradesh, India | 📞 +91 9393388769
-🔗 LinkedIn
+# 👨‍💻 Srikanth Gatla
 
-🎯 Professional Summary 🔧 [New Section]
+📍 Vijayawada, Andhra Pradesh, India  
+📧 Srikanthgatla989@gmail.com  
+📱 +91 9393388769  
+🔗 [LinkedIn](https://linkedin.com/in/srikanth-gatla)
+
+---
+
+## 🎯 Professional Summary
+
 Security-focused infrastructure engineer with hands-on experience in secure system configuration, cloud architecture, and compliance alignment (DoDIN/CC). Proven track record in hardening Linux systems, automating infrastructure with Terraform, and deploying security protocols across hybrid cloud environments (AWS, OpenStack, VMware). Passionate about operational resilience, threat mitigation, and scalable security architecture.
 
-🎓 Education
-RVR & JC College of Engineering, Guntur, Andhra Pradesh — B.Tech in Computer Science
-📅 June 2023
-Relevant Training: AWS Cloud Architect Badge (Feb–May 2022)
-Relevant Coursework: Algorithms, Data Structures, AI, NLP, Scientific Computing, Computer Vision, Programming Languages
+---
 
-⚙️ Technical Skills 🔧 [Restructured for Security Infra]
-🔐 Security Tools: Wireshark, fail2ban, iptables, auditd, SNMPv3, SSH hardening
-☁️ Cloud Platforms: AWS (IAM, EC2, S3, VPC, CloudTrail, GuardDuty), Azure, GCP
-🧰 Infra & IaC: Terraform, Git, VMware ESXi, OpenStack, Linux administration
-💻 Programming & Scripting: Python, Bash, Java, C++, React.js
-🖥️ OS & Environments: Rocky Linux, Ubuntu, Windows Server, VMware
+## 🎓 Education
 
-💼 Experience
-Gigamon – Software Engineer (Full-time)
-📍 Chennai, Tamil Nadu (On-site) | 🗓️ Jan 2024 – Present
+**RVR & JC College of Engineering, Guntur, Andhra Pradesh**  
+_Bachelor of Technology in Computer Science_  
+📅 June 2023  
+- Relevant Training: AWS Cloud Architect Badge (Feb–May 2022)  
+- Relevant Coursework: Algorithms, Data Structures, AI, NLP, Scientific Computing, Computer Vision, Programming Languages
 
-🔧 Hardened GigaVUE-OS for DoDIN and CC compliance, implementing secure system baselines using STIG-aligned configurations; awarded GigaStar (Q4 2024).
+---
 
-🔧 Configured and deployed SSHD with secure defaults (key-only auth, idle timeout, max auth tries), mitigating 92% of brute-force attacks as measured via security telemetry.
+## ⚙️ Technical Skills
 
-🔧 Upgraded SNMPv3 services to support SHA-256/SHA-512 and AES-256 encryption, enhancing secure monitoring across distributed deployments.
+**🔐 Security Tools:** Wireshark, fail2ban, iptables, auditd, SNMPv3, SSH hardening  
+**☁️ Cloud Platforms:** AWS (IAM, EC2, S3, VPC, CloudTrail, GuardDuty), Azure, GCP  
+**🧰 Infra & IaC:** Terraform, Git, VMware ESXi, OpenStack, Linux administration  
+**💻 Programming & Scripting:** Python, Bash, Java, C++, React.js  
+**🖥️ OS & Environments:** Rocky Linux, Ubuntu, Windows Server, VMware  
 
-Collaborated with the security team to test protocol resilience under simulated attack vectors using Wireshark and tcpdump.
+---
 
-Gigamon – Software QA Engineer Intern
-📍 Chennai, Tamil Nadu (On-site) | 🗓️ Mar 2023 – Dec 2023
+## 💼 Experience
 
-🔧 Integrated 5G-SBI APIs into OpenStack, ensuring compliance with telecom-grade security via TLS inspection and role-based API access.
+### 👨‍💻 Gigamon – Software Engineer (Full-time)  
+📍 Chennai, Tamil Nadu | 🗓️ Jan 2024 – Present  
+- Hardened GigaVUE-OS for DoDIN and CC compliance using STIG-aligned configurations; awarded **GigaStar (Q4 2024)**.  
+- Configured SSHD with secure defaults (key-only auth, idle timeout, max auth tries), mitigating **92% of brute-force attacks**.  
+- Upgraded SNMPv3 services to SHA-256/SHA-512 and AES-256 encryption, enhancing monitoring security in enterprise environments.  
+- Collaborated with the security team using Wireshark and tcpdump to validate protocol resilience.
 
-🔧 Identified and documented critical vulnerabilities in cloud orchestrations (VMware, AWS, Azure, GCP) using black-box and white-box QA practices, increasing stability by 30%.
+### 🧪 Gigamon – Software QA Engineer Intern  
+📍 Chennai, Tamil Nadu | 🗓️ Mar 2023 – Dec 2023  
+- Integrated 5G-SBI APIs into OpenStack; ensured secure communication and access control.  
+- Discovered critical vulnerabilities in orchestrations (VMware, AWS, Azure, GCP); improved system stability by **30%**.  
+- Validated mobility solutions under 3G/4G/5G traffic scenarios with a focus on security and failover testing.
 
-🔧 Executed comprehensive test scenarios simulating 3G/4G/5G traffic with focus on reliability and isolation in telecom mobility solutions.
+---
 
-🔧 Security Projects [New Section, Replacing ML Projects]
-Linux Hardening via CIS Benchmarks
-Deployed Rocky Linux VM and applied CIS Level 1 controls (password policies, SSH hardening, service minimization).
+## 🔐 Security Infrastructure Projects
 
-Configured auditd and log forwarding to central syslog server; validated setup via log inspection.
+### 🔧 Linux Hardening via CIS Benchmarks  
+- Deployed Rocky Linux VM; enforced CIS Level 1 controls (SSH configs, password policies, service lockdown).  
+- Configured `auditd` for auditing and centralized logging via rsyslog.
 
-AWS Security Automation with Terraform
-Built reusable modules for secure VPCs, private subnets, S3 with encryption + public access blocks, and IAM policies.
+### 🔧 AWS Security Automation with Terraform  
+- Built modules for secure VPCs, encrypted S3, restricted IAM roles.  
+- Integrated AWS Config and GuardDuty for drift detection and anomaly monitoring.
 
-Integrated GuardDuty and Config Rules for real-time misconfiguration detection.
+---
 
-🏅 Certifications
-AWS Academy Cloud Foundations
+## 🏅 Certifications
 
-AWS Academy Cloud Architect
+- AWS Academy Cloud Foundations  
+- AWS Academy Cloud Architect  
+- Microsoft Certified: Azure Fundamentals  
+- Git & GitHub: Working with Repositories – Infosys  
+- *Pursuing AWS Certified Security – Specialty (Expected August 2025)*
 
-Microsoft Certified: Azure Fundamentals
+---
 
-🔧 Git & GitHub: Working with Repositories – Infosys (less relevant for security, could be dropped)
+## 📜 Additional Experience
 
-🔧 [Recommended to Add]: “Pursuing AWS Certified Security – Specialty (Expected August 2025)”
+### 🛡️ Web Application Pentester – Indian Servers Pvt. Ltd.  
+📅 May 2022 – July 2022  
+- Performed web application vulnerability assessments; created test payloads using Burp Suite and manual techniques.
 
-🧪 Additional Experience
-Web Application Pentester – Indian Servers Pvt. Ltd.
-📅 May 2022 – July 2022
+### ☁️ AWS Cloud Virtual Internship – Eduskills Foundation  
+📅 March 2022 – May 2022  
+- Worked with IAM policy configurations, EC2 firewall rules, and CloudWatch monitoring basics.
 
-Performed penetration tests on client-side apps; created custom payloads and used Burp Suite for injection validation.
-
-AWS Cloud Virtual Internship – Eduskills Foundation
-📅 March 2022 – May 2022
-
-Worked on securing IAM roles, configuring CloudWatch, and basic EC2-level firewall (SG/NACL) setups.
+---
 
