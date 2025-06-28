@@ -25,7 +25,7 @@ _Bachelor of Technology in Computer Science_
 
 ## ⚙️ Technical Skills
 
-**🔐 Security Tools:** Wireshark, fail2ban, iptables, auditd, SNMPv3, SSH hardening  
+**🔐 Security Tools:** Wireshark Tenable/Qualys, iptables, rsyslog, SNMP, SSH hardening  
 **☁️ Cloud Platforms:** AWS (IAM, EC2, S3, VPC, CloudTrail, GuardDuty), Azure, GCP  
 **🧰 Infra & IaC:** Terraform, Git, VMware ESXi, OpenStack, Linux administration  
 **💻 Programming & Scripting:** Python, Bash, Java, C++, React.js  
@@ -68,7 +68,7 @@ _Bachelor of Technology in Computer Science_
 - AWS Academy Cloud Architect  
 - Microsoft Certified: Azure Fundamentals  
 - Git & GitHub: Working with Repositories – Infosys  
-- *Pursuing AWS Certified Security – Specialty (Expected August 2025)*
+- *Pursuing System security [Green belt] – PWN.College (Expected October 2025)*
 
 ---
 
